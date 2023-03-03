@@ -24,7 +24,7 @@ Colab: https://colab.research.google.com/drive/1uwg4p06-hGHsNHWo78lTTio19vq8u1Sj
  --- | --- | ---
  ![image](https://user-images.githubusercontent.com/103137801/222811147-cb768eb1-d899-4205-a815-46724e125f80.png) | ![image](https://user-images.githubusercontent.com/103137801/222811021-3ebaa2a7-4d98-4768-937e-65b393ae2062.png) | ![image](https://user-images.githubusercontent.com/103137801/222810868-6924b69c-3d81-4208-a27a-94d2ccb89d95.png)
  
- ## Выравнивание
+ ## Выравнивание  на 21 хромосому
  
  ID | кол-во ридов | НЕ выравнилось | выравнилось уникально | выравнилось НЕ-уникально
  --- | --- | --- | --- | ---
