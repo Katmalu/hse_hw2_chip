@@ -23,3 +23,11 @@ Colab: https://colab.research.google.com/drive/1uwg4p06-hGHsNHWo78lTTio19vq8u1Sj
  ![image](https://user-images.githubusercontent.com/103137801/222811094-77af563e-17cd-4867-9760-28a33d63db73.png) | ![image](https://user-images.githubusercontent.com/103137801/222810939-3b738907-5bc7-4ce5-bf23-3edbaacaa395.png) | ![image](https://user-images.githubusercontent.com/103137801/222810827-06bbc89c-7954-48c7-9092-ec2d15f9891d.png)
  --- | --- | ---
  ![image](https://user-images.githubusercontent.com/103137801/222811147-cb768eb1-d899-4205-a815-46724e125f80.png) | ![image](https://user-images.githubusercontent.com/103137801/222811021-3ebaa2a7-4d98-4768-937e-65b393ae2062.png) | ![image](https://user-images.githubusercontent.com/103137801/222810868-6924b69c-3d81-4208-a27a-94d2ccb89d95.png)
+ 
+ ## Выравнивание
+ 
+ ID | кол-во ридов | НЕ выравнилось | выравнилось уникально | выравнилось НЕ-уникально
+ --- | --- | --- | --- | ---
+ ENCFF539PKS | 977233 | 828140 | 33975 | 115118
+ ENCFF374VEK | 9116820 | 7942832 | 259006 | 914982
+ ENCFF634CSE | 13063420 | 11651084 | 367606 | 1044730
