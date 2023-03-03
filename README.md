@@ -38,5 +38,7 @@ Colab: https://colab.research.google.com/drive/1uwg4p06-hGHsNHWo78lTTio19vq8u1Sj
   --- | ---
   ![image](https://user-images.githubusercontent.com/103137801/222813877-ed3f79d5-f60c-41fb-8015-223afd3c7525.png) | ![image](https://user-images.githubusercontent.com/103137801/222814045-726ee758-7a77-4ae3-8cb6-e5dd35e32395.png)
   ![image](https://user-images.githubusercontent.com/103137801/222814138-1b806f95-6305-4cfc-bef6-3b391a2bb3f9.png) | ![image](https://user-images.githubusercontent.com/103137801/222815802-7accf90a-ab20-43fb-b5e4-09198ee26ec9.png)
+  
+  Так как пересечение считается по тому сколько пиков из набора пиков A пересеклось с хоть с каким-то пиком из набора пиков B, то от того что мы поменяем A и B местами это чмсло изменится. Так ка мы использовали другие методы у нас получились пики которых нет в ENCODE, но в ENCODE в целом больше пиков так как они считались по всем хромосомам а мы считали только по 21.
 
   
