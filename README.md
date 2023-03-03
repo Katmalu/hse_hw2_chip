@@ -31,3 +31,12 @@ Colab: https://colab.research.google.com/drive/1uwg4p06-hGHsNHWo78lTTio19vq8u1Sj
  ENCFF539PKS | 977233 | 828140 | 33975 | 115118
  ENCFF374VEK | 9116820 | 7942832 | 259006 | 914982
  ENCFF634CSE | 13063420 | 11651084 | 367606 | 1044730
+ 
+ ## Диаграммы Венна
+ 
+  ENCFF539PKS |  ENCFF374VEK
+  --- | ---
+  [venn1_PKS.pdf](https://github.com/Katmalu/hse_hw2_chip/files/10885625/venn1_PKS.pdf) | [venn1_VEK.pdf](https://github.com/Katmalu/hse_hw2_chip/files/10885629/venn1_VEK.pdf)
+  [venn2_PKS.pdf](https://github.com/Katmalu/hse_hw2_chip/files/10885633/venn2_PKS.pdf) | [venn2_VEK.pdf](https://github.com/Katmalu/hse_hw2_chip/files/10885635/venn2_VEK.pdf)
+
+  
