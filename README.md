@@ -36,7 +36,7 @@ Colab: https://colab.research.google.com/drive/1uwg4p06-hGHsNHWo78lTTio19vq8u1Sj
  
   ENCFF539PKS |  ENCFF374VEK
   --- | ---
-  [venn1_PKS.pdf](https://github.com/Katmalu/hse_hw2_chip/files/10885625/venn1_PKS.pdf) | [venn1_VEK.pdf](https://github.com/Katmalu/hse_hw2_chip/files/10885629/venn1_VEK.pdf)
-  [venn2_PKS.pdf](https://github.com/Katmalu/hse_hw2_chip/files/10885633/venn2_PKS.pdf) | [venn2_VEK.pdf](https://github.com/Katmalu/hse_hw2_chip/files/10885635/venn2_VEK.pdf)
+  ![image](https://user-images.githubusercontent.com/103137801/222813877-ed3f79d5-f60c-41fb-8015-223afd3c7525.png) | ![image](https://user-images.githubusercontent.com/103137801/222814045-726ee758-7a77-4ae3-8cb6-e5dd35e32395.png)
+  ![image](https://user-images.githubusercontent.com/103137801/222814138-1b806f95-6305-4cfc-bef6-3b391a2bb3f9.png) | ![image](https://user-images.githubusercontent.com/103137801/222814221-2ee5c3b4-0129-499b-bff8-9c39cbe61d5e.png)
 
   
